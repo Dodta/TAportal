@@ -57,24 +57,16 @@ h2{
 	overflow: hidden;
 
 }
-.btn1,.btn2,{
-	color: #2A54BF;
+.btn1,.btn2{
+	color: #616161;
 }
 .btn3,.btn4{
-	color: #2A54BF;
+	color:#616161;
 }
 .btn5{
-	color: #2A54BF;
+	color: #616161;
 }
-.btn1:hover,.btn2:hover{
-	color:#C34135;
-}
-.btn3:hover,.btn4:hover{
-	color:#C34135;
-}
-.btn5:hover{
-	color:#C34135;
-}
+
 .ripple {
     background-position: center;
     transition: background 0.8s;
@@ -90,6 +82,7 @@ h2{
 	.btn {
 		border: none;outline: none;
 		background-color: #F5F5F5;
+		color: #616161;
 		border-radius: 2px;
 		padding:2rem;
 		cursor: pointer;
